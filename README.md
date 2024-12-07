@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joao Miao</h1>
+<h1 align="center">Hi 👋, I'm Bowen Jing</h1>
 <h3 align="center">A passionate AI developper from Univerisity of Manchester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur12137&label=Profile%20views&color=0e75b6&style=flat" alt="arthur12137" /> </p>
